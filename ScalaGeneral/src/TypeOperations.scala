@@ -7,9 +7,9 @@ object TypeOperations {
     val longValue:Long = 123.asInstanceOf[Long]
     println("converted to long value")
     //isInstanceOf
-    //to<Type>
+    //to<Type>asdfasdfafaf
     println("Testing for github")
-    
+    sdfasdfasfdasdf
   }
   
 }
