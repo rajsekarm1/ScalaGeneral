@@ -9,8 +9,7 @@ object TypeOperations {
     //isInstanceOf
     //to<Type>asdfasdfafaf
     println("Testing for github")
-    sdfasdfasfdasdf
-    asfasfsfdasffs
+ 
   }
   
 }

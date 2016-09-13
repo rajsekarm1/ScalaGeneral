@@ -11,7 +11,7 @@ object NoneAndSomeExample {
     }
   }
   
-  def returnOptionalMethod(a:Int):Option[String] ={
+  def returnOptionalMethod(a:Int):Option[String]={
     if(a==6){
       return Some("value is 5")
     }else{
