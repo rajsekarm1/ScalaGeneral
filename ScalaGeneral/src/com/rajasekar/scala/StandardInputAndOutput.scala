@@ -1,5 +1,9 @@
 package src.com.rajasekar.scala
 
-object StandardInputAndOutput {
+import scala.io.StdIn
 
+object StandardInputAndOutput extends App {
+  println("Enter the name")
+  val name = StdIn.readLine()
+  println(s"Print the name:${name}")
 }
